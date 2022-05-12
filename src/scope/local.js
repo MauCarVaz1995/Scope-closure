@@ -14,7 +14,7 @@ const functionScope = () => {
     const func = () =>{
         return scope
     }
-    console-log(func());
+    console.log(func());
 }
 
 functionScope();
